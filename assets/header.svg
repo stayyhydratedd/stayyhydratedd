@@ -1,0 +1,14 @@
+<svg width="846" height="120" viewBox="0 0 846 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      fill: #37AB2C;
+      font-size: 28px;
+      font-family: 'IBM Plex Mono', monospace;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+  <text x="400" y="60" class="title">
+    Hi there! I'm Pavel — nice to have you here.
+  </text>
+</svg>
